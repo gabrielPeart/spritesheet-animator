@@ -1,6 +1,6 @@
 {
   "name": "spritesheet-animator",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "simple way to work with spritesheet animations created on TP.",
   "main": "index.js",
   "scripts": {
