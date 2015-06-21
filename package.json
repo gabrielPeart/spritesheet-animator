@@ -13,8 +13,20 @@
     "sprites",
     "texture packer"
   ],
-  "author": "Miguel Moraleda",
+  "author": {
+    "name": "Miguel Moraleda",
+    "email": "miguel@jam3.com",
+    "url": "https://github.com/miguelmoraleda"
+  },
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Jam3/spritesheet-animator.git"
+  },
+  "homepage": "https://github.com/Jam3/spritesheet-animator",
+  "bugs": {
+    "url": "https://github.com/Jam3/spritesheet-animator/issues"
+  },
   "dependencies": {
     "gsap": "^1.17.0",
     "signals": "^1.0.0"
