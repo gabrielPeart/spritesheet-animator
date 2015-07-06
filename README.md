@@ -1,11 +1,8 @@
 # spritesheet-animator
 
-[![experimental](http://badges.github.io/stability-badges/dist/experimental.svg)](http://github.com/badges/stability-badges)
+[![stable](http://badges.github.io/stability-badges/dist/stable.svg)](http://github.com/badges/stability-badges)
 
 [![NPM](https://nodei.co/npm/spritesheet-animator.png)](https://www.npmjs.com/package/spritesheet-animator)
-
-[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/Jam3/spritesheet-animator?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
 
 ## Install
 
@@ -39,6 +36,7 @@ beefy test/browserTest.js -o
 
 ## Release History
 
+* 1.0.0 First stable version
 * 0.0.0 Experimental phase
 
 

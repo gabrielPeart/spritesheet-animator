@@ -1,7 +1,7 @@
 {
   "name": "spritesheet-animator",
-  "version": "0.0.1",
-  "description": "simple way to work with spritesheet animations created on TP.",
+  "version": "1.0.0",
+  "description": "Simple way to work with spritesheet animations created on TP.",
   "main": "index.js",
   "scripts": {
     "test": "beefy test/browserTest.js -o"
